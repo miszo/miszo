@@ -40,11 +40,3 @@ Thanks for taking the time to read about me, and if you're interested in working
 <code><img height="20" alt="ESLint" src="https://github.com/miszo/miszo/raw/main/icons/eslint.svg"></code>
 <code><img height="20" alt="Prettier" src="https://github.com/miszo/miszo/raw/main/icons/prettier.svg"></code>
 <code><img height="20" alt="Neovim BTW" src="https://github.com/miszo/miszo/raw/main/icons/neovim.svg"></code>
-
----
-
-<img alt="Miszo's GitHub Stats" src="https://github-readme-stats.miszo.vercel.app/api?username=miszo&show_icons=true&count_private=true&theme=nightowl" />
-
----
-
-<img alt="Miszo's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=miszo&column=3&margin-w=15&margin-h=15&theme=dracula" />
